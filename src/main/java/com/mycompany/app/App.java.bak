@@ -8,7 +8,11 @@ public class App
 {
     public static void main( String[] args )
     {
-        int a=20;
+<<<<<<< HEAD
+        int a=10;
+=======
+        String s="hi";
+>>>>>>> 89f7dee3e84787fc71b9b610061eec01ae07cc34
         System.out.println( "Hello World!" );
     }
 }
